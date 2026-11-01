@@ -1,0 +1,12 @@
+{
+  "versionCode": 12,
+  "versionName": "V0.12",
+  "mandatory": false,
+  "releaseNotes": [
+    "Canal de actualizaciones migrado a GitHub Releases.",
+    "Firma verificada y actualización probada sin desinstalar la aplicación."
+  ],
+  "apkUrl": "https://github.com/elias-goris/conduce-maintenance-updates/releases/download/v0.12/conduce-maintenance-12.apk",
+  "sha256": "ef511909fbc2791cc622f1f1a0bf66fffaaea2c3dabd9c5fc3bd3266b4a2c748",
+  "signingCertificateSha256": "562ba46c03554340ce8b805fb8d78341dcaa23f09163e37a4c0f29e07652f7ce"
+}
